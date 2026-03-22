@@ -16,19 +16,19 @@ A comprehensive fitness tracking web app with workout videos, AI coach, progress
 ## Screenshots
 
 ### Dashboard
-![Dashboard](https://fitness-app-ten-azure.vercel.app/screenshots/dashboard.png)
+![Dashboard](public/screenshots/dashboard.png)
 
 ### Workout Session
-![Workout](https://fitness-app-ten-azure.vercel.app/screenshots/workout.png)
+![Workout](public/screenshots/workout.png)
 
-### Exercise Library
-![Exercises](https://fitness-app-ten-azure.vercel.app/screenshots/exercises.png)
+### Exercise Details
+![Exercise Details](public/screenshots/exercise-detail.png)
 
 ### AI Coach
-![AI Coach](https://fitness-app-ten-azure.vercel.app/screenshots/coach.png)
+![AI Coach](public/screenshots/coach.png)
 
 ### Settings & Themes
-![Settings](https://fitness-app-ten-azure.vercel.app/screenshots/settings.png)
+![Settings](public/screenshots/settings.png)
 
 ## Tech Stack
 
