@@ -13,22 +13,9 @@ A comprehensive fitness tracking web app with workout videos, AI coach, progress
 - **Reminders** - Workout, water, meals, and check-ins
 - **Multiple Themes** - Dark, Light, Ocean, Sunset, Forest, Purple
 
-## Screenshots
+## App Preview
 
-### Dashboard
-![Dashboard](public/screenshots/dashboard.png)
-
-### Workout Session
-![Workout](public/screenshots/workout.png)
-
-### Exercise Details
-![Exercise Details](public/screenshots/exercise-detail.png)
-
-### AI Coach
-![AI Coach](public/screenshots/coach.png)
-
-### Settings & Themes
-![Settings](public/screenshots/settings.png)
+![Picture 1 Pro Slideshow](public/screenshots/slideshow.gif)
 
 ## Tech Stack
 
