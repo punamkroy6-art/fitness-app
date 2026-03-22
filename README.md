@@ -13,6 +13,23 @@ A comprehensive fitness tracking web app with workout videos, AI coach, progress
 - **Reminders** - Workout, water, meals, and check-ins
 - **Multiple Themes** - Dark, Light, Ocean, Sunset, Forest, Purple
 
+## Screenshots
+
+### Dashboard
+![Dashboard](https://fitness-abzgrtsis-punam-roys-projects.vercel.app/screenshots/dashboard.png)
+
+### Workout Session
+![Workout](https://fitness-abzgrtsis-punam-roys-projects.vercel.app/screenshots/workout.png)
+
+### Exercise Library
+![Exercises](https://fitness-abzgrtsis-punam-roys-projects.vercel.app/screenshots/exercises.png)
+
+### AI Coach
+![AI Coach](https://fitness-abzgrtsis-punam-roys-projects.vercel.app/screenshots/coach.png)
+
+### Settings & Themes
+![Settings](https://fitness-abzgrtsis-punam-roys-projects.vercel.app/screenshots/settings.png)
+
 ## Tech Stack
 
 - **Framework:** Next.js 16
